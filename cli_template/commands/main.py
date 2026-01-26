@@ -16,5 +16,5 @@ def add_default_invoke():
 
 add_default_invoke()
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     cmd()
